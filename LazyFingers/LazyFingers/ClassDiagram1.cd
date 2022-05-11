@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LazyFingers.FrmButtonSetting" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAICACAAAABADAAAACAAAAAAAAAAABAQAAAAA=</HashCode>
+      <FileName>FrmButtonSetting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LazyFingers.FrmLog" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAAAAACAAAACIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FrmLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LazyFingers.FrmMain" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQIorKAAAiIhlZUyAASg4VAClYoBBHDz/0wuCQgKsP8=</HashCode>
+      <FileName>FrmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LazyFingers.GlobalKeyboardHook" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAgBDAAgAQEAAAAACCAAQgIhACQ=</HashCode>
+      <FileName>GlobalKeyboardHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LazyFingers.Program" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LazyFingers.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABAAAAAAAAABAJFAAAAQAEAAAAAAQCAAAAAII=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LazyFingers.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCACAAAQIAAYAAIAAAAAIIgEB0ABAAgCAAAAAAQBQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LazyFingers.KeyPressed" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQAAAAAAAAAAAAAAgEAgAAAAgCAAAAAAQBAAA=</HashCode>
+      <FileName>FrmButtonSetting.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
